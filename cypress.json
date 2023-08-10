@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://demo.aspnetawesome.com/",
+    "testFiles": "**/*.feature"
+}
